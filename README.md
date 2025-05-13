@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murilo Milan</h1>
-<h3 align="center">A passionate backend of games</h3>
+<h3 align="center">A passionate game enjoyer</h3>
 
 - ⚡ Fun fact **Neymar is the best in the word**
 
