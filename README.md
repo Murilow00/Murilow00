@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murilo Milan</h1>
 <h3 align="center">A passionate game enjoyer</h3>
 
-- ⚡ Fun fact **Neymar is the best in the word**
+- ⚡ Fun fact **I love my classes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
