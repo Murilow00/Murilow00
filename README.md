@@ -29,7 +29,7 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Murilo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Murilow00&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Murilo" />
 </p>
 
 ---
