@@ -31,14 +31,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Murilow00&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Murilo" />
 </p>
-
----
-
-## 🌐 Vamos nos Conectar!
-
-<p align="center">
-  <a href="https://instagram.com/murilobmilan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  
-  </p>
