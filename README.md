@@ -1,12 +1,44 @@
-<h1 align="center">Hi 👋, I'm Murilo Milan</h1>
-<h3 align="center">A passionate game enjoyer</h3>
+<h1 align="center">Olá 👋, eu sou o Murilo Milan</h1>
+<h3 align="center">Um apaixonado por jogos e desenvolvedor em ascensão 🚀</h3>
 
-- ⚡ Fun fact **I love my classes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/murilobmilan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murilobmilan" height="30" width="40" /></a>
+<p align="center">
+  <i>"Eu realmente amo as minhas aulas!"</i> 🎓
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br>
+
+## 👨‍💻 Sobre Mim
+
+- 🔭 Atualmente trabalhando em **Continuar existindo**
+- 🌱 Focando meus estudos em **Desenvolvimento de Jogos e Unreal Engine**
+- 💬 Me pergunte sobre **C++, Python, JavaScript ou qual meu jogo favorito**
+- 📫 Como falar comigo: **murilo.brustolin01@gmail.com**
+
+---
+
+## 🛠️ Linguagens e Ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,python,js" alt="Minhas Ferramentas" />
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Murilo" />
+</p>
+
+---
+
+## 🌐 Vamos nos Conectar!
+
+<p align="center">
+  <a href="https://instagram.com/murilobmilan" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  
+  </p>
