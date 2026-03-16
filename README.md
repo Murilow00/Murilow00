@@ -10,7 +10,7 @@
 ## 👨‍💻 Sobre Mim
 
 - 🔭 Atualmente trabalhando em **Continuar existindo**
-- 🌱 Focando meus estudos em **Desenvolvimento de Jogos e Unreal Engine**
+- 🌱 Focando meus estudos em **Desenvolvimento de Jogos e Desenvolvimento Web**
 - 💬 Me pergunte sobre **C++, Python, JavaScript ou qual meu jogo favorito**
 - 📫 Como falar comigo: **murilo.brustolin01@gmail.com**
 
