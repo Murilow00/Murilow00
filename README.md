@@ -1,4 +1,4 @@
-# ☠️ ARQUIVO DE ENTIDADE: MURILO MILAN
+# ☠️ ARQUIVO DE: MURILOW00 || CLIPADOR
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=5a0000&size=28&center=true&vCenter=true&width=700&lines=VOCÊ+NÃO+DEVERIA+ESTAR+AQUI;O+MEDO+OBSERVA;SUA+REALIDADE+NÃO+É+SEGURA;ERRO:+ENTIDADE+DETECTADA..." />
