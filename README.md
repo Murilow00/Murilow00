@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif](https://www.pinterest.com/pin/horror--21744010694967670/)" width="200"/>
+  <img src="[https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif]" width="200"/>
 </p>
 
 <p align="center">
