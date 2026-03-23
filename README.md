@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://i.makeagif.com/media/1-04-2026/jqpXYQ.gif" width="400"/>
 </p>
-https://i.makeagif.com/media/1-04-2026/jqpXYQ.gif
+
 <p align="center">
   <img src="https://img.shields.io/badge/NEX-85%25-3a0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CLASSE-OCULTISTA-1a0000?style=for-the-badge"/>
