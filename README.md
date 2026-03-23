@@ -1,33 +1,44 @@
-<h1 align="center">Olá 👋, eu sou o Murilo Milan</h1>
-<h3 align="center">Um apaixonado por jogos e desenvolvedor em ascensão 🚀</h3>
+<h1 align="center">📁 ARQUIVO CONFIDENCIAL: AGENTE MURILO MILAN</h1>
+<h3 align="center">Ordo Realitas - Divisão de Desenvolvimento de Simulações 🚀</h3>
 
 <p align="center">
-  <i>"Eu realmente amo as minhas aulas!"</i> 🎓
+  <img src="https://raw.githubusercontent.com/Ordem-Paranormal/Assets/main/Logos/OrdoRealitas_Logo.png" width="150" alt="Logo Ordo Realitas" />
+</p>
+
+<p align="center">
+  <i>"O medo é a ferramenta. O código é a barreira entre nós e o Outro Lado."</i> 👁️
 </p>
 
 <br>
 
-## 👨‍💻 Sobre Mim
+## 👤 Perfil do Agente
 
-- 🔭 Atualmente trabalhando em **Continuar existindo**
-- 🌱 Focando meus estudos em **Desenvolvimento de Jogos e Desenvolvimento Web**
-- 💬 Me pergunte sobre **C++, Python, JavaScript ou qual meu jogo favorito**
-- 📫 Como falar comigo: **murilo.brustolin01@gmail.com**
+- **🔭 Status Atual:** Sobrevivendo à Exposição Paranormal (**NEX 15%**) e focado em **Continuar existindo**.
+- **🌱 Especialização:** Estudando as leis da realidade através de **Desenvolvimento de Jogos e Web**.
+- **💬 Frequência de Rádio:** Disponível para debater sobre **C++, Python, JavaScript** ou qual o jogo que mais drenou sua Sanidade.
+
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Ferramentas de Investigação (Arsenal)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,unreal,python,js" alt="Minhas Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,python,js,html,css,github,vscode" alt="Ferramentas do Agente" />
   </a>
+</p>
+
+
+---
+
+## 📊 Medidor de Exposição Paranormal (GitHub Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Murilow00&show_icons=true&theme=tokyonight&hide_border=false&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0a0a0a" alt="Estatísticas de Exposição" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Murilow00&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do Murilo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b0000&height=100&section=footer" />
 </p>
