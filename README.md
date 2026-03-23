@@ -1,37 +1,36 @@
-<h1 align="center">📁 ARQUIVO CONFIDENCIAL: AGENTE MURILO MILAN</h1>
-<h3 align="center">Ordo Realitas - Divisão de Desenvolvimento de Simulações 🚀</h3>
-
+# 🪓 ARQUIVO DE ENTIDADE: MURILO MILAN
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ordem-Paranormal/Assets/main/Logos/OrdoRealitas_Logo.png" width="150" alt="Logo Ordo Realitas" />
+  <b>NEX: 85% | CLASSE: OCULTISTA | ELEMENTO: MORTE</b>
 </p>
-
-<p align="center">
-  <i>"O medo é a ferramenta. O código é a barreira entre nós e o Outro Lado."</i> 👁️
-</p>
-
-<br>
-
-## 👤 Perfil do Agente
-
-- **🔭 Status Atual:** Sobrevivendo à Exposição Paranormal (**NEX 15%**) e focado em **Continuar existindo**.
-- **🌱 Especialização:** Estudando as leis da realidade através de **Desenvolvimento de Jogos e Web**.
-- **💬 Frequência de Rádio:** Disponível para debater sobre **C++, Python, JavaScript** ou qual o jogo que mais drenou sua Sanidade.
-
 
 ---
 
-## 🛠️ Ferramentas de Investigação (Arsenal)
+## 👁️ Manifestação (Sobre Mim)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,unreal,python,js,html,css,github,vscode" alt="Ferramentas do Agente" />
-  </a>
-</p>
+*"O código não é apenas lógica. É um pacto. Se você errar um ponto e vírgula, algo do Outro Lado pode entrar."*
 
+Eu sou o **Murilo Milan**, uma anomalia no sistema. Enquanto outros apenas usam a tecnologia, eu a submeto à minha vontade. Sou um desenvolvedor que não apenas cria jogos, mas molda realidades digitais onde o medo e a adrenalina são as únicas constantes.
+
+- **🔭 Operação Atual:** Transcender a existência através da criação de mundos persistentes.
+- **🌱 Ritual de Foco:** Sacrificando sanidade para dominar **Unreal Engine** e **Sistemas de RPG**.
+- **💬 Frequência do Medo:** Sintonizado para diálogos sobre **C++, Python, JS** ou teorias sobre o fim do mundo.
+- **📫 Canal de Invocação:** [murilo.brustolin01@gmail.com](mailto:murilo.brustolin01@gmail.com)
 
 ---
 
-## 📊 Medidor de Exposição Paranormal (GitHub Stats)
+## 🩸 Ferramentas de Tortura & Criação (Arsenal)
+
+Abaixo estão as relíquias que utilizo para rasgar o véu entre o código e a realidade:
+
+| Elemento | Ferramentas | Descrição |
+| :--- | :--- | :--- |
+| **ENERGIA** | `C++` `Unreal Engine` | Onde o caos se torna gráfico. Alta performance, alta letalidade. |
+| **CONHECIMENTO** | `Python` `JavaScript` | A compreensão dos padrões. Automação e manipulação de dados. |
+| **MORTE** | `Git` `VS Code` | Onde o tempo é controlado. Versões passadas e futuras colidindo. |
+
+---
+
+## 📊 Medidor de Calamidade (GitHub Stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Murilow00&show_icons=true&theme=tokyonight&hide_border=false&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0a0a0a" alt="Estatísticas de Exposição" />
@@ -39,6 +38,12 @@
 
 ---
 
+## 💀 Habilidade de Trilha: "Compilação de Sangue"
+> **Efeito:** Sempre que Murilo Milan inicia um projeto em C++, ele pode gastar **3 PE** para reduzir o tempo de desenvolvimento em 50%. No entanto, cada erro de sintaxe consome **1d6 de Sanidade** de quem ousar ler o código fonte.
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b0000&height=100&section=footer" />
+  <i>"A Ordem não pode te proteger do que eu sou capaz de programar."</i><br>
+  <b>— ASSINADO: ORDO</b>
 </p>
