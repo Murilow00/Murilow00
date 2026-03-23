@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NEX-85%25-3a0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NEX-80%25-3a0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CLASSE-OCULTISTA-1a0000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ELEMENTO-MORTE-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ESTADO-MEDO%20CONSTANTE-5a0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ESTADO-RESENHA%20CONSTANTE-5a0000?style=for-the-badge"/>
 </p>
 
 ---
