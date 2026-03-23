@@ -27,8 +27,7 @@ Não um programador. Não mais.
 Eu escrevo código que **observa de volta**.  
 Cada sistema que crio carrega algo que não deveria existir.
 
-- ☠️ **Atividade:** Criação de sistemas que transcendem controle  
-- 👁️ **Sintoma:** Sensação constante de estar sendo observado  
+- ☠️ **Atividade:** Criação de sistemas que transcendem   
 - 🩸 **Efeito colateral:** Medo persistente ao compilar código  
 - 📡 **Contato:** murilo.brustolin01@gmail.com  
 
