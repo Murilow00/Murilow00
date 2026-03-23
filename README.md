@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/8QxXW8YQZqkAAAAC/ghostface-scream.gif" width="200"/>
+  <img src="https://media.tenor.com/8QxXW8YQZqkAAAAC/ghostface-scream.gif" width="400"/>
 </p>
 
 <p align="center">
