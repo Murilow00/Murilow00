@@ -48,5 +48,4 @@ Enquanto mortais utilizam tecnologia, eu a **corrompo**, a **moldo**, a **transf
 
 <p align="center">
   <i style="color:#aa0000;">"Você não está programando. Está invocando."</i><br>
-  <b>— ORDO SANGUINIS</b>
 </p>
