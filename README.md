@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/8QxXW8YQZqkAAAAC/ghostface-scream.gif" width="400"/>
+  <img src="https://makeagif.com/gif/hexatombe-episodio-2-portal-ordem-paranormal-jqpXYQ" width="400"/>
 </p>
 
 <p align="center">
