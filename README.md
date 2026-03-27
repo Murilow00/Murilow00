@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=5a0000&size=28&center=true&vCenter=true&width=700&lines=VOCÊ+NÃO+DEVERIA+ESTAR+AQUI;O+MEDO+OBSERVA;SUA+REALIDADE+NÃO+É+SEGURA;ERRO:+ENTIDADE+DETECTADA..." />
 </p>
 
-<img src="https://media1.tenor.com/m/9LHF3En0V5MAAAAC/hexatombe-raziel.gif" width="50%" alt="Hexatombe Raziel">
+<p align="center">
+  <img src="https://media1.tenor.com/m/9LHF3En0V5MAAAAC/hexatombe-raziel.gif" width="50%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NEX-85%25-3a0000?style=for-the-badge"/>
