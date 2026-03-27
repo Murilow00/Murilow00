@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=5a0000&size=28&center=true&vCenter=true&width=700&lines=VOCÊ+NÃO+DEVERIA+ESTAR+AQUI;O+MEDO+OBSERVA;SUA+REALIDADE+NÃO+É+SEGURA;ERRO:+ENTIDADE+DETECTADA..." />
 </p>
 
-<p align="center">
-  <div class="tenor-gif-embed" data-postid="17632091566056429459" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/hexatombe-raziel-vampiros-ordem-paranormal-velizar-gif-17632091566056429459">Hexatombe Raziel GIF</a>from <a href="https://tenor.com/search/hexatombe-gifs">Hexatombe GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</p>
+<div align="center">
+  <img src="https://media.tenor.com/7-8L8_A5v_QAAAAC/hexatombe-raziel.gif" alt="Hexatombe Raziel" width="100%">
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NEX-85%25-3a0000?style=for-the-badge"/>
