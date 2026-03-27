@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.tenor.com/7-8L8_A5v_QAAAAC/hexatombe-raziel.gif" alt="Hexatombe Raziel" width="100%">
+  <img src="https://media.tenor.com/7-8L8_A5v_QAAAAC/hexatombe-raziel.gif" alt="Hexatombe Raziel" width="120px">
 </div>
 
 <p align="center">
