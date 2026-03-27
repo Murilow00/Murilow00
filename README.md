@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.makeagif.com/media/1-04-2026/jqpXYQ.gif" width="400"/>
+  <div class="tenor-gif-embed" data-postid="17632091566056429459" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/hexatombe-raziel-vampiros-ordem-paranormal-velizar-gif-17632091566056429459">Hexatombe Raziel GIF</a>from <a href="https://tenor.com/search/hexatombe-gifs">Hexatombe GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <p align="center">
